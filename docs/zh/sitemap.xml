@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/wowchemy/quick-start/</loc>
+    <loc>https://imroc.io/learning-hugo/wowchemy/quick-start/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/quick-start/</loc>
+    <loc>https://imroc.io/learning-hugo/basics/quick-start/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/quick-start/install/</loc>
+    <loc>https://imroc.io/learning-hugo/basics/quick-start/install/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/</loc>
+    <loc>https://imroc.io/learning-hugo/basics/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://imroc.io/learning-hugo/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://imroc.io/learning-hugo/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/"
+                href="https://imroc.io/learning-hugo/"
                 />
   </url>
   
   <url>
-    <loc>/wowchemy/</loc>
+    <loc>https://imroc.io/learning-hugo/wowchemy/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -47,7 +47,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://imroc.io/learning-hugo/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,30 +57,30 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://imroc.io/learning-hugo/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://imroc.io/learning-hugo/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/categories/"
+                href="https://imroc.io/learning-hugo/categories/"
                 />
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://imroc.io/learning-hugo/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/publication_types/"
+                href="https://imroc.io/learning-hugo/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/publication_types/"
+                href="https://imroc.io/learning-hugo/publication_types/"
                 />
   </url>
   
@@ -89,16 +89,16 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://imroc.io/learning-hugo/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://imroc.io/learning-hugo/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/tags/"
+                href="https://imroc.io/learning-hugo/tags/"
                 />
   </url>
   

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>使用 wowchemy 打造个人网站 | Hugo 学习笔记</title>
-    <link>/wowchemy/</link>
-      <atom:link href="/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://imroc.io/learning-hugo/wowchemy/</link>
+      <atom:link href="https://imroc.io/learning-hugo/wowchemy/index.xml" rel="self" type="application/rss+xml" />
     <description>使用 wowchemy 打造个人网站</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>roc © 2021</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_300x300_fit_lanczos_2.png</url>
+      <url>https://imroc.io/learning-hugo/images/logo_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_300x300_fit_lanczos_2.png</url>
       <title>使用 wowchemy 打造个人网站</title>
-      <link>/wowchemy/</link>
+      <link>https://imroc.io/learning-hugo/wowchemy/</link>
     </image>
     
   </channel>
