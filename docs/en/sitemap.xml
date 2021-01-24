@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://imroc.io/en/authors/</loc>
+    <loc>/learning-hugo/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -12,63 +12,63 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imroc.io/en/authors/"
+                href="/learning-hugo/en/authors/"
                 />
   </url>
   
   <url>
-    <loc>https://imroc.io/en/categories/</loc>
+    <loc>/learning-hugo/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://imroc.io/categories/"
+                href="/learning-hugo/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imroc.io/en/categories/"
+                href="/learning-hugo/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://imroc.io/en/</loc>
+    <loc>/learning-hugo/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://imroc.io/"
+                href="/learning-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imroc.io/en/"
+                href="/learning-hugo/en/"
                 />
   </url>
   
   <url>
-    <loc>https://imroc.io/en/publication_types/</loc>
+    <loc>/learning-hugo/en/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://imroc.io/publication_types/"
+                href="/learning-hugo/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imroc.io/en/publication_types/"
+                href="/learning-hugo/en/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>https://imroc.io/en/tags/</loc>
+    <loc>/learning-hugo/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://imroc.io/tags/"
+                href="/learning-hugo/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imroc.io/en/tags/"
+                href="/learning-hugo/en/tags/"
                 />
   </url>
   

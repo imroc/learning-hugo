@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo 基础 | Hugo 学习笔记</title>
-    <link>https://imroc.io/basics/</link>
-      <atom:link href="https://imroc.io/basics/index.xml" rel="self" type="application/rss+xml" />
+    <link>/learning-hugo/basics/</link>
+      <atom:link href="/learning-hugo/basics/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo 基础</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>roc © 2021</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://imroc.io/images/logo_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_300x300_fit_lanczos_2.png</url>
+      <url>/learning-hugo/images/logo_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_300x300_fit_lanczos_2.png</url>
       <title>Hugo 基础</title>
-      <link>https://imroc.io/basics/</link>
+      <link>/learning-hugo/basics/</link>
     </image>
     
   </channel>
