@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>快速上手 | Hugo 学习笔记</title>
-    <link>/learnging-hugo/basics/quick-start/</link>
-      <atom:link href="/learnging-hugo/basics/quick-start/index.xml" rel="self" type="application/rss+xml" />
+    <link>/basics/quick-start/</link>
+      <atom:link href="/basics/quick-start/index.xml" rel="self" type="application/rss+xml" />
     <description>快速上手</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>roc © 2021</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/learnging-hugo/images/logo_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_300x300_fit_lanczos_2.png</url>
+      <url>/images/logo_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_300x300_fit_lanczos_2.png</url>
       <title>快速上手</title>
-      <link>/learnging-hugo/basics/quick-start/</link>
+      <link>/basics/quick-start/</link>
     </image>
     
     <item>
       <title>安装</title>
-      <link>/learnging-hugo/basics/quick-start/install/</link>
+      <link>/basics/quick-start/install/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/learnging-hugo/basics/quick-start/install/</guid>
+      <guid>/basics/quick-start/install/</guid>
       <description>&lt;p&gt;A recommended reading list for the course.&lt;/p&gt;
 &lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;

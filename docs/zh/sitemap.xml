@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/learnging-hugo/wowchemy/quick-start/</loc>
+    <loc>/wowchemy/quick-start/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/learnging-hugo/basics/quick-start/</loc>
+    <loc>/basics/quick-start/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/learnging-hugo/basics/quick-start/install/</loc>
+    <loc>/basics/quick-start/install/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/learnging-hugo/basics/</loc>
+    <loc>/basics/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/learnging-hugo/</loc>
+    <loc>/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/learnging-hugo/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/learnging-hugo/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>/learnging-hugo/wowchemy/</loc>
+    <loc>/wowchemy/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -47,7 +47,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/learnging-hugo/en/authors/"
+                href="/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,30 +57,30 @@
   </url>
   
   <url>
-    <loc>/learnging-hugo/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/learnging-hugo/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/learnging-hugo/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>/learnging-hugo/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/learnging-hugo/en/publication_types/"
+                href="/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/learnging-hugo/publication_types/"
+                href="/publication_types/"
                 />
   </url>
   
@@ -89,16 +89,16 @@
   </url>
   
   <url>
-    <loc>/learnging-hugo/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/learnging-hugo/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/learnging-hugo/tags/"
+                href="/tags/"
                 />
   </url>
   

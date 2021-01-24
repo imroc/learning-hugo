@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: /learnging-hugo/sitemap.xml
+Sitemap: /sitemap.xml
