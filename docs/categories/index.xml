@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Hugo 学习笔记</title>
-    <link>https://imroc.io/learning-hugo/categories/</link>
-      <atom:link href="https://imroc.io/learning-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://imroc.io/categories/</link>
+      <atom:link href="https://imroc.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><copyright>roc © 2021</copyright>
     <image>
-      <url>https://imroc.io/learning-hugo/images/logo_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_300x300_fit_lanczos_2.png</url>
+      <url>https://imroc.io/images/logo_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_300x300_fit_lanczos_2.png</url>
       <title>Categories</title>
-      <link>https://imroc.io/learning-hugo/categories/</link>
+      <link>https://imroc.io/categories/</link>
     </image>
     
   </channel>
