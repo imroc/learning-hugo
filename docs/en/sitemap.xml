@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/learnging-hugo/en/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href=""
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learnging-hugo/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learnging-hugo/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learnging-hugo/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learnging-hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learnging-hugo/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/en/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learnging-hugo/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learnging-hugo/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learnging-hugo/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learnging-hugo/en/tags/"
+                />
+  </url>
+  
+</urlset>

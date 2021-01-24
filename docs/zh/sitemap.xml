@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/learnging-hugo/wowchemy/quick-start/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/basics/quick-start/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/basics/quick-start/install/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/basics/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learnging-hugo/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learnging-hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/wowchemy/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learnging-hugo/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href=""
+                />
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learnging-hugo/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learnging-hugo/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learnging-hugo/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learnging-hugo/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc></loc>
+  </url>
+  
+  <url>
+    <loc>/learnging-hugo/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/learnging-hugo/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/learnging-hugo/tags/"
+                />
+  </url>
+  
+</urlset>
