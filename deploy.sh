@@ -10,7 +10,7 @@ if [ $# -eq 1  ]
 fi
 
 # Build the project. 
-hugo
+hugo -d docs
 
 # Add changes to git.
 git add .
